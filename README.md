@@ -1,1 +1,1 @@
-# minor_project
+This repository consists of code demonstrating the work done as part of minor project curriculum in my B.Tech 7th Semester from August 2024 - November 2024. The notebook contains modular code using 4 variants of BERT models (ALBERT, DistillBERT, RoBERTa, XLM-RoBERTa), providing a comprehensive analysis and comparison of these based on criteria like memory, time latency required for sentence processing.
